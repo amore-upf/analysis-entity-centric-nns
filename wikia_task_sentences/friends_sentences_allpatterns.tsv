@@ -1,0 +1,497 @@
+	entity	entity_id	n_properties	pattern_type	sentence	speaker	speaker_id	to_resolve	frequency	combination_type	combination_id
+0	Annabel	18	1	person	This person is the date of Todd, the Hombre Man.	average	---	(1, 1)	---	relations	Annabel_0
+1	Annabel	18	1	I	I am the date of Todd, the Hombre Man.	Annabel	18	(0, 0)	---	relations	Annabel_0
+2	Annabel	18	1	person	This person is a salesgirl.	average	---	(1, 1)	---	attributes	Annabel_1
+3	Annabel	18	1	I	I am a salesgirl.	Annabel	18	(0, 0)	---	attributes	Annabel_1
+4	Todd, the Hombre Man	152	1	person	This person is a salesman.	average	---	(1, 1)	---	attributes	Todd,_the_Hombre_Man_2
+5	Todd, the Hombre Man	152	1	I	I am a salesman.	Todd, the Hombre Man	152	(0, 0)	---	attributes	Todd,_the_Hombre_Man_2
+6	The Zoo Employee	169	1	person	This person is a zoo janitor.	average	---	(1, 1)	---	attributes	The_Zoo_Employee_3
+7	The Zoo Employee	169	1	I	I am a zoo janitor.	The Zoo Employee	169	(0, 0)	---	attributes	The_Zoo_Employee_3
+8	Terry	364	1	person	This person is a coffeeshop owner.	average	---	(1, 1)	---	attributes	Terry_4
+9	Terry	364	1	I	I am a coffeeshop owner.	Terry	364	(0, 0)	---	attributes	Terry_4
+10	Susie Moss	360	1	person	This person is a make-up dresser.	average	---	(1, 1)	---	attributes	Susie_Moss_5
+11	Susie Moss	360	1	I	I am a make-up dresser.	Susie Moss	360	(0, 0)	---	attributes	Susie_Moss_5
+12	Susie Moss	360	1	person	This person is a hairdresser.	average	---	(1, 1)	---	attributes	Susie_Moss_6
+13	Susie Moss	360	1	I	I am a hairdresser.	Susie Moss	360	(0, 0)	---	attributes	Susie_Moss_6
+14	Steven Fisher	355	1	person	This person is a lawyer.	average	---	(1, 1)	---	attributes	Steven_Fisher_7
+15	Steven Fisher	355	1	I	I am a lawyer.	Steven Fisher	355	(0, 0)	---	attributes	Steven_Fisher_7
+16	Stephanie	354	1	person	This person is a musician.	average	---	(1, 1)	---	attributes	Stephanie_8
+17	Stephanie	354	1	I	I am a musician.	Stephanie	354	(0, 0)	---	attributes	Stephanie_8
+18	Phoebe Buffay	292	1	person	This person is the dated of Ryan.	average	---	(1, 1)	---	relations	Phoebe_Buffay_9
+19	Phoebe Buffay	292	1	I	I am the dated of Ryan.	Phoebe Buffay	292	(0, 0)	---	relations	Phoebe_Buffay_9
+20	Phoebe Buffay	292	1	person	This person is a singer-songwriter.	average	---	(1, 1)	---	attributes	Phoebe_Buffay_10
+21	Phoebe Buffay	292	1	I	I am a singer-songwriter.	Phoebe Buffay	292	(0, 0)	---	attributes	Phoebe_Buffay_10
+22	Phoebe Buffay	292	1	person	This person is a masseuse.	average	---	(1, 1)	---	attributes	Phoebe_Buffay_11
+23	Phoebe Buffay	292	1	I	I am a masseuse.	Phoebe Buffay	292	(0, 0)	---	attributes	Phoebe_Buffay_11
+24	Phoebe Buffay	292	1	person	This person is the stepdaughter of Phoebe's stepfather.	average	---	(1, 1)	---	relations	Phoebe_Buffay_12
+25	Phoebe Buffay	292	1	I	I am the stepdaughter of Phoebe's stepfather.	Phoebe Buffay	292	(0, 0)	---	relations	Phoebe_Buffay_12
+26	Phoebe Buffay	292	1	person	This person is the stepdaughter of Mrs. Buffay (Frank Sr.'s second wife).	average	---	(1, 1)	---	relations	Phoebe_Buffay_13
+27	Phoebe Buffay	292	1	I	I am the stepdaughter of Mrs. Buffay (Frank Sr.'s second wife).	Phoebe Buffay	292	(0, 0)	---	relations	Phoebe_Buffay_13
+28	Phoebe Buffay	292	1	person	This person is the half-sister of Frank Buffay Sr..	average	---	(1, 1)	---	relations	Phoebe_Buffay_14
+29	Phoebe Buffay	292	1	I	I am the half-sister of Frank Buffay Sr..	Phoebe Buffay	292	(0, 0)	---	relations	Phoebe_Buffay_14
+30	Phoebe Buffay	292	1	person	This person is the adoptive granddaughter of Frances.	average	---	(1, 1)	---	relations	Phoebe_Buffay_15
+31	Phoebe Buffay	292	1	I	I am the adoptive granddaughter of Frances.	Phoebe Buffay	292	(0, 0)	---	relations	Phoebe_Buffay_15
+32	Phoebe Buffay	292	1	person	This person is the ex-wife of Duncan.	average	---	(1, 1)	---	relations	Phoebe_Buffay_16
+33	Phoebe Buffay	292	1	I	I am the ex-wife of Duncan.	Phoebe Buffay	292	(0, 0)	---	relations	Phoebe_Buffay_16
+34	Phoebe Buffay	292	1	person	This person is the ex-girlfriend of Roger.	average	---	(1, 1)	---	relations	Phoebe_Buffay_17
+35	Phoebe Buffay	292	1	I	I am the ex-girlfriend of Roger.	Phoebe Buffay	292	(0, 0)	---	relations	Phoebe_Buffay_17
+36	Phoebe Buffay	292	1	person	This person is the ex-girlfriend of David.	average	---	(1, 1)	---	relations	Phoebe_Buffay_18
+37	Phoebe Buffay	292	1	I	I am the ex-girlfriend of David.	Phoebe Buffay	292	(0, 0)	---	relations	Phoebe_Buffay_18
+38	Phoebe Buffay	292	1	person	This person is the daughter of Lily Buffay.	average	---	(1, 1)	---	relations	Phoebe_Buffay_19
+39	Phoebe Buffay	292	1	I	I am the daughter of Lily Buffay.	Phoebe Buffay	292	(0, 0)	---	relations	Phoebe_Buffay_19
+40	Ryan	339	1	person	This person is a lieutenant commander.	average	---	(1, 1)	---	attributes	Ryan_20
+41	Ryan	339	1	I	I am a lieutenant commander.	Ryan	339	(0, 0)	---	attributes	Ryan_20
+42	Ross Geller	335	1	person	This person is the doppelganger of Russ.	average	---	(1, 1)	---	relations	Ross_Geller_21
+43	Ross Geller	335	1	I	I am the doppelganger of Russ.	Ross Geller	335	(0, 0)	---	relations	Ross_Geller_21
+44	Ross Geller	335	1	person	This person is a professor.	average	---	(1, 1)	---	attributes	Ross_Geller_22
+45	Ross Geller	335	1	I	I am a professor.	Ross Geller	335	(0, 0)	---	attributes	Ross_Geller_22
+46	Ross Geller	335	1	person	This person is the husband of Rachel Green.	average	---	(1, 1)	---	relations	Ross_Geller_23
+47	Ross Geller	335	1	I	I am the husband of Rachel Green.	Ross Geller	335	(0, 0)	---	relations	Ross_Geller_23
+48	Ross Geller	335	1	person	This person is the former owner of Marcel.	average	---	(1, 1)	---	relations	Ross_Geller_24
+49	Ross Geller	335	1	I	I am the former owner of Marcel.	Ross Geller	335	(0, 0)	---	relations	Ross_Geller_24
+50	Ross Geller	335	2	np	This man is a paleontologist.	average	---	(1, 1)	---	attributes	Ross_Geller_25
+51	Ross Geller	335	2	np	This paleontologist is a man.	average	---	(1, 1)	---	attributes	Ross_Geller_25
+52	Ross Geller	335	2	he_she	He is a paleontologist.	average	---	(0, 0)	---	attributes	Ross_Geller_25
+53	Ross Geller	335	2	person	This person is a man and a paleontologist.	average	---	(1, 1)	---	attributes	Ross_Geller_25
+54	Ross Geller	335	2	person	This person is a paleontologist and a man.	average	---	(1, 1)	---	attributes	Ross_Geller_25
+55	Ross Geller	335	2	I	I am a man and a paleontologist.	Ross Geller	335	(0, 0)	---	attributes	Ross_Geller_25
+56	Ross Geller	335	2	I	I am a paleontologist and a man.	Ross Geller	335	(0, 0)	---	attributes	Ross_Geller_25
+57	Ross Geller	335	2	np	This ex-boyfriend of Janice Litman Goralnik is a paleontologist.	average	---	(1, 1)	---	attributes & relations	Ross_Geller_26
+58	Ross Geller	335	2	np	This paleontologist is an ex-boyfriend of Janice Litman Goralnik.	average	---	(1, 1)	---	attributes & relations	Ross_Geller_26
+59	Ross Geller	335	2	my	My ex-boyfriend is a paleontologist.	Janice Litman Goralnik	168	(1, 1)	---	attributes & relations	Ross_Geller_26
+60	Ross Geller	335	2	person	This person is an ex-boyfriend of Janice Litman Goralnik and a paleontologist.	average	---	(1, 1)	---	attributes & relations	Ross_Geller_26
+61	Ross Geller	335	2	person	This person is a paleontologist and an ex-boyfriend of Janice Litman Goralnik.	average	---	(1, 1)	---	attributes & relations	Ross_Geller_26
+62	Ross Geller	335	2	I	I am an ex-boyfriend of Janice Litman Goralnik and a paleontologist.	Ross Geller	335	(0, 0)	---	attributes & relations	Ross_Geller_26
+63	Ross Geller	335	2	I	I am a paleontologist and an ex-boyfriend of Janice Litman Goralnik.	Ross Geller	335	(0, 0)	---	attributes & relations	Ross_Geller_26
+64	Ross Geller	335	1	person	This person is the ex-boyfriend of Julie.	average	---	(1, 1)	---	relations	Ross_Geller_27
+65	Ross Geller	335	1	I	I am the ex-boyfriend of Julie.	Ross Geller	335	(0, 0)	---	relations	Ross_Geller_27
+66	Ross Geller	335	1	person	This person is the ex-boyfriend of Jill Green.	average	---	(1, 1)	---	relations	Ross_Geller_28
+67	Ross Geller	335	1	I	I am the ex-boyfriend of Jill Green.	Ross Geller	335	(0, 0)	---	relations	Ross_Geller_28
+68	Ross Geller	335	1	person	This person is the son of Jack Geller.	average	---	(1, 1)	---	relations	Ross_Geller_29
+69	Ross Geller	335	1	I	I am the son of Jack Geller.	Ross Geller	335	(0, 0)	---	relations	Ross_Geller_29
+70	Ross Geller	335	1	person	This person is the son of Judy Geller.	average	---	(1, 1)	---	relations	Ross_Geller_30
+71	Ross Geller	335	1	I	I am the son of Judy Geller.	Ross Geller	335	(0, 0)	---	relations	Ross_Geller_30
+72	Ross Geller	335	1	person	This person is the ex-husband of Carol Willick.	average	---	(1, 1)	---	relations	Ross_Geller_31
+73	Ross Geller	335	1	I	I am the ex-husband of Carol Willick.	Ross Geller	335	(0, 0)	---	relations	Ross_Geller_31
+74	Ross Geller	335	1	person	This person is the father of Ben Geller.	average	---	(1, 1)	---	relations	Ross_Geller_32
+75	Ross Geller	335	1	I	I am the father of Ben Geller.	Ross Geller	335	(0, 0)	---	relations	Ross_Geller_32
+76	Ross Geller	335	1	person	This person is the ex-husband of Carol Willick.	average	---	(1, 1)	---	relations	Ross_Geller_33
+77	Ross Geller	335	1	I	I am the ex-husband of Carol Willick.	Ross Geller	335	(0, 0)	---	relations	Ross_Geller_33
+78	Ross Geller	335	1	person	This person is the husband of Rachel Green.	average	---	(1, 1)	---	relations	Ross_Geller_34
+79	Ross Geller	335	1	I	I am the husband of Rachel Green.	Ross Geller	335	(0, 0)	---	relations	Ross_Geller_34
+80	Ross Geller	335	1	person	This person is the brother of Monica Geller-Bing.	average	---	(1, 1)	---	relations	Ross_Geller_35
+81	Ross Geller	335	1	I	I am the brother of Monica Geller-Bing.	Ross Geller	335	(0, 0)	---	relations	Ross_Geller_35
+82	Ross Geller	335	1	person	This person is the nephew of Aunt Sylvia.	average	---	(1, 1)	---	relations	Ross_Geller_36
+83	Ross Geller	335	1	I	I am the nephew of Aunt Sylvia.	Ross Geller	335	(0, 0)	---	relations	Ross_Geller_36
+84	Ross Geller	335	1	person	This person is the nephew of Aunt Lillian.	average	---	(1, 1)	---	relations	Ross_Geller_37
+85	Ross Geller	335	1	I	I am the nephew of Aunt Lillian.	Ross Geller	335	(0, 0)	---	relations	Ross_Geller_37
+86	Ross Geller	335	1	person	This person is the brother-in-law of Jill Green.	average	---	(1, 1)	---	relations	Ross_Geller_38
+87	Ross Geller	335	1	I	I am the brother-in-law of Jill Green.	Ross Geller	335	(0, 0)	---	relations	Ross_Geller_38
+88	Ross Geller	335	1	person	This person is the brother-in-law of Chandler Bing.	average	---	(1, 1)	---	relations	Ross_Geller_39
+89	Ross Geller	335	1	I	I am the brother-in-law of Chandler Bing.	Ross Geller	335	(0, 0)	---	relations	Ross_Geller_39
+90	Ross Geller	335	1	person	This person is the grandson of Althea.	average	---	(1, 1)	---	relations	Ross_Geller_40
+91	Ross Geller	335	1	I	I am the grandson of Althea.	Ross Geller	335	(0, 0)	---	relations	Ross_Geller_40
+92	Ross Geller	335	1	person	This person is the son-in-law of Sandra Green.	average	---	(1, 1)	---	relations	Ross_Geller_41
+93	Ross Geller	335	1	I	I am the son-in-law of Sandra Green.	Ross Geller	335	(0, 0)	---	relations	Ross_Geller_41
+94	Ross Geller	335	1	person	This person is the son-in-law of Leonard Green.	average	---	(1, 1)	---	relations	Ross_Geller_42
+95	Ross Geller	335	1	I	I am the son-in-law of Leonard Green.	Ross Geller	335	(0, 0)	---	relations	Ross_Geller_42
+96	Julie	197	1	person	This person is the girlfriend of Russ.	average	---	(1, 1)	---	relations	Julie_43
+97	Julie	197	1	I	I am the girlfriend of Russ.	Julie	197	(0, 0)	---	relations	Julie_43
+98	Julie	197	2	np	This woman is a paleontologist.	average	---	(1, 1)	---	attributes	Julie_44
+99	Julie	197	2	np	This paleontologist is a woman.	average	---	(1, 1)	---	attributes	Julie_44
+100	Julie	197	2	he_she	She is a paleontologist.	average	---	(0, 0)	---	attributes	Julie_44
+101	Julie	197	2	person	This person is a woman and a paleontologist.	average	---	(1, 1)	---	attributes	Julie_44
+102	Julie	197	2	person	This person is a paleontologist and a woman.	average	---	(1, 1)	---	attributes	Julie_44
+103	Julie	197	2	I	I am a woman and a paleontologist.	Julie	197	(0, 0)	---	attributes	Julie_44
+104	Julie	197	2	I	I am a paleontologist and a woman.	Julie	197	(0, 0)	---	attributes	Julie_44
+105	Russ	338	1	person	This person is a periodontist.	average	---	(1, 1)	---	attributes	Russ_45
+106	Russ	338	1	I	I am a periodontist.	Russ	338	(0, 0)	---	attributes	Russ_45
+107	Russ	338	1	person	This person is the boyfriend of Julie.	average	---	(1, 1)	---	relations	Russ_46
+108	Russ	338	1	I	I am the boyfriend of Julie.	Russ	338	(0, 0)	---	relations	Russ_46
+109	Marcel	230	1	person	This person is the previous pet monkey of Ross Geller.	average	---	(1, 1)	---	relations	Marcel_47
+110	Marcel	230	1	I	I am the previous pet monkey of Ross Geller.	Marcel	230	(0, 0)	---	relations	Marcel_47
+111	Marcel	230	1	person	This person is a pet.	average	---	(1, 1)	---	attributes	Marcel_48
+112	Marcel	230	1	I	I am a pet.	Marcel	230	(0, 0)	---	attributes	Marcel_48
+113	Joey Tribbiani Sr.	184	1	person	This person is the affair of Ronni Rapalono.	average	---	(1, 1)	---	relations	Joey_Tribbiani_Sr._49
+114	Joey Tribbiani Sr.	184	1	I	I am the affair of Ronni Rapalono.	Joey Tribbiani Sr.	184	(0, 0)	---	relations	Joey_Tribbiani_Sr._49
+115	Joey Tribbiani Sr.	184	1	person	This person is the father of Joey Tribbiani Jr..	average	---	(1, 1)	---	relations	Joey_Tribbiani_Sr._50
+116	Joey Tribbiani Sr.	184	1	I	I am the father of Joey Tribbiani Jr..	Joey Tribbiani Sr.	184	(0, 0)	---	relations	Joey_Tribbiani_Sr._50
+117	Joey Tribbiani Sr.	184	1	person	This person is the husband of Gloria Tribbiani.	average	---	(1, 1)	---	relations	Joey_Tribbiani_Sr._51
+118	Joey Tribbiani Sr.	184	1	I	I am the husband of Gloria Tribbiani.	Joey Tribbiani Sr.	184	(0, 0)	---	relations	Joey_Tribbiani_Sr._51
+119	Ronni Rapalono	332	1	person	This person is a pet mortician.	average	---	(1, 1)	---	attributes	Ronni_Rapalono_52
+120	Ronni Rapalono	332	1	I	I am a pet mortician.	Ronni Rapalono	332	(0, 0)	---	attributes	Ronni_Rapalono_52
+121	Ronni Rapalono	332	1	person	This person is the mistress of Joey Tribbiani Sr..	average	---	(1, 1)	---	relations	Ronni_Rapalono_53
+122	Ronni Rapalono	332	1	I	I am the mistress of Joey Tribbiani Sr..	Ronni Rapalono	332	(0, 0)	---	relations	Ronni_Rapalono_53
+123	Roger	329	1	person	This person is a psychiatrist.	average	---	(1, 1)	---	attributes	Roger_54
+124	Roger	329	1	I	I am a psychiatrist.	Roger	329	(0, 0)	---	attributes	Roger_54
+125	Richard Burke	318	1	person	This person is an ophthalmologist.	average	---	(1, 1)	---	attributes	Richard_Burke_55
+126	Richard Burke	318	1	I	I am an ophthalmologist.	Richard Burke	318	(0, 0)	---	attributes	Richard_Burke_55
+127	Richard Burke	318	1	person	This person is the ex-boyfriend of Monica Geller-Bing.	average	---	(1, 1)	---	relations	Richard_Burke_56
+128	Richard Burke	318	1	I	I am the ex-boyfriend of Monica Geller-Bing.	Richard Burke	318	(0, 0)	---	relations	Richard_Burke_56
+129	Richard Burke	318	1	person	This person is the ex-husband of Barbara Burke.	average	---	(1, 1)	---	relations	Richard_Burke_57
+130	Richard Burke	318	1	I	I am the ex-husband of Barbara Burke.	Richard Burke	318	(0, 0)	---	relations	Richard_Burke_57
+131	Ben Geller	30	1	person	This person is the stepson of Susan Bunch.	average	---	(1, 1)	---	relations	Ben_Geller_58
+132	Ben Geller	30	1	I	I am the stepson of Susan Bunch.	Ben Geller	30	(0, 0)	---	relations	Ben_Geller_58
+133	Ben Geller	30	1	person	This person is the stepson of Rachel Green.	average	---	(1, 1)	---	relations	Ben_Geller_59
+134	Ben Geller	30	1	I	I am the stepson of Rachel Green.	Ben Geller	30	(0, 0)	---	relations	Ben_Geller_59
+135	Ben Geller	30	1	person	This person is the step-grandson of Leonard Green.	average	---	(1, 1)	---	relations	Ben_Geller_60
+136	Ben Geller	30	1	I	I am the step-grandson of Leonard Green.	Ben Geller	30	(0, 0)	---	relations	Ben_Geller_60
+137	Ben Geller	30	1	person	This person is the step-grandson of Sandra Green.	average	---	(1, 1)	---	relations	Ben_Geller_61
+138	Ben Geller	30	1	I	I am the step-grandson of Sandra Green.	Ben Geller	30	(0, 0)	---	relations	Ben_Geller_61
+139	Ben Geller	30	1	person	This person is the step-nephew of Jill Green.	average	---	(1, 1)	---	relations	Ben_Geller_62
+140	Ben Geller	30	1	I	I am the step-nephew of Jill Green.	Ben Geller	30	(0, 0)	---	relations	Ben_Geller_62
+141	Ben Geller	30	1	person	This person is the nephew/godson of Chandler Bing.	average	---	(1, 1)	---	relations	Ben_Geller_63
+142	Ben Geller	30	1	I	I am the nephew/godson of Chandler Bing.	Ben Geller	30	(0, 0)	---	relations	Ben_Geller_63
+143	Ben Geller	30	1	person	This person is the son of Ross Geller.	average	---	(1, 1)	---	relations	Ben_Geller_64
+144	Ben Geller	30	1	I	I am the son of Ross Geller.	Ben Geller	30	(0, 0)	---	relations	Ben_Geller_64
+145	Ben Geller	30	1	person	This person is the son of Carol Willick.	average	---	(1, 1)	---	relations	Ben_Geller_65
+146	Ben Geller	30	1	I	I am the son of Carol Willick.	Ben Geller	30	(0, 0)	---	relations	Ben_Geller_65
+147	Ben Geller	30	1	person	This person is the great nephew of Aunt Lillian.	average	---	(1, 1)	---	relations	Ben_Geller_66
+148	Ben Geller	30	1	I	I am the great nephew of Aunt Lillian.	Ben Geller	30	(0, 0)	---	relations	Ben_Geller_66
+149	Ben Geller	30	1	person	This person is the nephew of Monica Geller-Bing.	average	---	(1, 1)	---	relations	Ben_Geller_67
+150	Ben Geller	30	1	I	I am the nephew of Monica Geller-Bing.	Ben Geller	30	(0, 0)	---	relations	Ben_Geller_67
+151	Ben Geller	30	1	person	This person is the great-grandson of Althea.	average	---	(1, 1)	---	relations	Ben_Geller_68
+152	Ben Geller	30	1	I	I am the great-grandson of Althea.	Ben Geller	30	(0, 0)	---	relations	Ben_Geller_68
+153	Ben Geller	30	1	person	This person is the grandson of Jack Geller.	average	---	(1, 1)	---	relations	Ben_Geller_69
+154	Ben Geller	30	1	I	I am the grandson of Jack Geller.	Ben Geller	30	(0, 0)	---	relations	Ben_Geller_69
+155	Ben Geller	30	1	person	This person is the grandson of Judy Geller.	average	---	(1, 1)	---	relations	Ben_Geller_70
+156	Ben Geller	30	1	I	I am the grandson of Judy Geller.	Ben Geller	30	(0, 0)	---	relations	Ben_Geller_70
+157	Duncan	105	1	person	This person is the ex-stepson-in-law of Phoebe's stepfather.	average	---	(1, 1)	---	relations	Duncan_71
+158	Duncan	105	1	I	I am the ex-stepson-in-law of Phoebe's stepfather.	Duncan	105	(0, 0)	---	relations	Duncan_71
+159	Duncan	105	1	person	This person is the ex-grandson-in-law of Frances.	average	---	(1, 1)	---	relations	Duncan_72
+160	Duncan	105	1	I	I am the ex-grandson-in-law of Frances.	Duncan	105	(0, 0)	---	relations	Duncan_72
+161	Duncan	105	1	person	This person is a ice dancer.	average	---	(1, 1)	---	attributes	Duncan_73
+162	Duncan	105	1	I	I am a ice dancer.	Duncan	105	(0, 0)	---	attributes	Duncan_73
+163	Duncan	105	1	person	This person is the ex-husband of Phoebe Buffay.	average	---	(1, 1)	---	relations	Duncan_74
+164	Duncan	105	1	I	I am the ex-husband of Phoebe Buffay.	Duncan	105	(0, 0)	---	relations	Duncan_74
+165	Lily Buffay	210	1	person	This person is the wife, deseased of Phoebe's stepfather.	average	---	(1, 1)	---	relations	Lily_Buffay_75
+166	Lily Buffay	210	1	I	I am the wife, deseased of Phoebe's stepfather.	Lily Buffay	210	(0, 0)	---	relations	Lily_Buffay_75
+167	Lily Buffay	210	1	person	This person is the adoptive mother of Phoebe Buffay.	average	---	(1, 1)	---	relations	Lily_Buffay_76
+168	Lily Buffay	210	1	I	I am the adoptive mother of Phoebe Buffay.	Lily Buffay	210	(0, 0)	---	relations	Lily_Buffay_76
+169	Lily Buffay	210	1	person	This person is a drug dealer.	average	---	(1, 1)	---	attributes	Lily_Buffay_77
+170	Lily Buffay	210	1	I	I am a drug dealer.	Lily Buffay	210	(0, 0)	---	attributes	Lily_Buffay_77
+171	Lily Buffay	210	1	person	This person is the adoptive ex-mother-in-law of Duncan.	average	---	(1, 1)	---	relations	Lily_Buffay_78
+172	Lily Buffay	210	1	I	I am the adoptive ex-mother-in-law of Duncan.	Lily Buffay	210	(0, 0)	---	relations	Lily_Buffay_78
+173	Lily Buffay	210	1	person	This person is the daughter of Frances.	average	---	(1, 1)	---	relations	Lily_Buffay_79
+174	Lily Buffay	210	1	I	I am the daughter of Frances.	Lily Buffay	210	(0, 0)	---	relations	Lily_Buffay_79
+175	Frances	144	1	person	This person is the adoptive grandmother of Phoebe Buffay.	average	---	(1, 1)	---	relations	Frances_80
+176	Frances	144	1	I	I am the adoptive grandmother of Phoebe Buffay.	Frances	144	(0, 0)	---	relations	Frances_80
+177	Frances	144	1	person	This person is a cabdriver.	average	---	(1, 1)	---	attributes	Frances_81
+178	Frances	144	1	I	I am a cabdriver.	Frances	144	(0, 0)	---	attributes	Frances_81
+179	Frances	144	1	person	This person is the adoptive ex-grandmother-in-law of Duncan.	average	---	(1, 1)	---	relations	Frances_82
+180	Frances	144	1	I	I am the adoptive ex-grandmother-in-law of Duncan.	Frances	144	(0, 0)	---	relations	Frances_82
+181	Frances	144	1	person	This person is the mother-in-law of Phoebe's stepfather.	average	---	(1, 1)	---	relations	Frances_83
+182	Frances	144	1	I	I am the mother-in-law of Phoebe's stepfather.	Frances	144	(0, 0)	---	relations	Frances_83
+183	Frances	144	1	person	This person is the mother of Lily Buffay.	average	---	(1, 1)	---	relations	Frances_84
+184	Frances	144	1	I	I am the mother of Lily Buffay.	Frances	144	(0, 0)	---	relations	Frances_84
+185	Nora Tyler Bing	268	1	person	This person is a novelist.	average	---	(1, 1)	---	attributes	Nora_Tyler_Bing_85
+186	Nora Tyler Bing	268	1	I	I am a novelist.	Nora Tyler Bing	268	(0, 0)	---	attributes	Nora_Tyler_Bing_85
+187	Nora Tyler Bing	268	1	person	This person is the ex-wife of Charles Bing.	average	---	(1, 1)	---	relations	Nora_Tyler_Bing_86
+188	Nora Tyler Bing	268	1	I	I am the ex-wife of Charles Bing.	Nora Tyler Bing	268	(0, 0)	---	relations	Nora_Tyler_Bing_86
+189	Nora Tyler Bing	268	1	person	This person is the ex-wife of Charles Bing.	average	---	(1, 1)	---	relations	Nora_Tyler_Bing_87
+190	Nora Tyler Bing	268	1	I	I am the ex-wife of Charles Bing.	Nora Tyler Bing	268	(0, 0)	---	relations	Nora_Tyler_Bing_87
+191	Nora Tyler Bing	268	1	person	This person is the mother-in-law of Monica Geller-Bing.	average	---	(1, 1)	---	relations	Nora_Tyler_Bing_88
+192	Nora Tyler Bing	268	1	I	I am the mother-in-law of Monica Geller-Bing.	Nora Tyler Bing	268	(0, 0)	---	relations	Nora_Tyler_Bing_88
+193	Nora Tyler Bing	268	1	person	This person is the mother of Chandler Bing.	average	---	(1, 1)	---	relations	Nora_Tyler_Bing_89
+194	Nora Tyler Bing	268	1	I	I am the mother of Chandler Bing.	Nora Tyler Bing	268	(0, 0)	---	relations	Nora_Tyler_Bing_89
+195	Nina Bookbinder	280	1	person	This person is a corporate employee.	average	---	(1, 1)	---	attributes	Nina_Bookbinder_90
+196	Nina Bookbinder	280	1	I	I am a corporate employee.	Nina Bookbinder	280	(0, 0)	---	attributes	Nina_Bookbinder_90
+197	Mr. Treeger	264	1	person	This person is a building superintendent.	average	---	(1, 1)	---	attributes	Mr._Treeger_91
+198	Mr. Treeger	264	1	I	I am a building superintendent.	Mr. Treeger	264	(0, 0)	---	attributes	Mr._Treeger_91
+199	Mr. Heckles	258	1	person	This person is a retired.	average	---	(1, 1)	---	attributes	Mr._Heckles_92
+200	Mr. Heckles	258	1	I	I am a retired.	Mr. Heckles	258	(0, 0)	---	attributes	Mr._Heckles_92
+201	Althea	250	1	person	This person is the maternal grandmother of Monica Geller-Bing.	average	---	(1, 1)	---	relations	Althea_93
+202	Althea	250	1	I	I am the maternal grandmother of Monica Geller-Bing.	Althea	250	(0, 0)	---	relations	Althea_93
+203	Althea	250	1	person	This person is the maternal grandmother of Ross Geller.	average	---	(1, 1)	---	relations	Althea_94
+204	Althea	250	1	I	I am the maternal grandmother of Ross Geller.	Althea	250	(0, 0)	---	relations	Althea_94
+205	Althea	250	1	person	This person is the mother-in-law of Jack Geller.	average	---	(1, 1)	---	relations	Althea_95
+206	Althea	250	1	I	I am the mother-in-law of Jack Geller.	Althea	250	(0, 0)	---	relations	Althea_95
+207	Althea	250	1	person	This person is the paternal great-grandmother of Ben Geller.	average	---	(1, 1)	---	relations	Althea_96
+208	Althea	250	1	I	I am the paternal great-grandmother of Ben Geller.	Althea	250	(0, 0)	---	relations	Althea_96
+209	Althea	250	1	person	This person is the mother of Aunt Lillian.	average	---	(1, 1)	---	relations	Althea_97
+210	Althea	250	1	I	I am the mother of Aunt Lillian.	Althea	250	(0, 0)	---	relations	Althea_97
+211	Althea	250	1	person	This person is the mother of Judy Geller.	average	---	(1, 1)	---	relations	Althea_98
+212	Althea	250	1	I	I am the mother of Judy Geller.	Althea	250	(0, 0)	---	relations	Althea_98
+213	Chandler Bing	59	1	person	This person is the husband of Monica Geller-Bing.	average	---	(1, 1)	---	relations	Chandler_Bing_99
+214	Chandler Bing	59	1	I	I am the husband of Monica Geller-Bing.	Chandler Bing	59	(0, 0)	---	relations	Chandler_Bing_99
+215	Chandler Bing	59	1	person	This person is the former roommate of Kip.	average	---	(1, 1)	---	relations	Chandler_Bing_100
+216	Chandler Bing	59	1	I	I am the former roommate of Kip.	Chandler Bing	59	(0, 0)	---	relations	Chandler_Bing_100
+217	Chandler Bing	59	1	person	This person is the ex-boyfriend of Susie Moss.	average	---	(1, 1)	---	relations	Chandler_Bing_101
+218	Chandler Bing	59	1	I	I am the ex-boyfriend of Susie Moss.	Chandler Bing	59	(0, 0)	---	relations	Chandler_Bing_101
+219	Chandler Bing	59	1	person	This person is the ex-boyfriend of Nina Bookbinder.	average	---	(1, 1)	---	relations	Chandler_Bing_102
+220	Chandler Bing	59	1	I	I am the ex-boyfriend of Nina Bookbinder.	Chandler Bing	59	(0, 0)	---	relations	Chandler_Bing_102
+221	Chandler Bing	59	1	person	This person is a manager.	average	---	(1, 1)	---	attributes	Chandler_Bing_103
+222	Chandler Bing	59	1	I	I am a manager.	Chandler Bing	59	(0, 0)	---	attributes	Chandler_Bing_103
+223	Chandler Bing	59	1	person	This person is the son of Nora Tyler Bing.	average	---	(1, 1)	---	relations	Chandler_Bing_104
+224	Chandler Bing	59	1	I	I am the son of Nora Tyler Bing.	Chandler Bing	59	(0, 0)	---	relations	Chandler_Bing_104
+225	Chandler Bing	59	1	person	This person is the son of Charles Bing.	average	---	(1, 1)	---	relations	Chandler_Bing_105
+226	Chandler Bing	59	1	I	I am the son of Charles Bing.	Chandler Bing	59	(0, 0)	---	relations	Chandler_Bing_105
+227	Chandler Bing	59	1	person	This person is the paternal uncle/godfather of Ben Geller.	average	---	(1, 1)	---	relations	Chandler_Bing_106
+228	Chandler Bing	59	1	I	I am the paternal uncle/godfather of Ben Geller.	Chandler Bing	59	(0, 0)	---	relations	Chandler_Bing_106
+229	Chandler Bing	59	1	person	This person is the ex-boyfriend of Aurora.	average	---	(1, 1)	---	relations	Chandler_Bing_107
+230	Chandler Bing	59	1	I	I am the ex-boyfriend of Aurora.	Chandler Bing	59	(0, 0)	---	relations	Chandler_Bing_107
+231	Chandler Bing	59	1	person	This person is the husband of Monica Geller-Bing.	average	---	(1, 1)	---	relations	Chandler_Bing_108
+232	Chandler Bing	59	1	I	I am the husband of Monica Geller-Bing.	Chandler Bing	59	(0, 0)	---	relations	Chandler_Bing_108
+233	Chandler Bing	59	1	person	This person is the brother-in-law of Ross Geller.	average	---	(1, 1)	---	relations	Chandler_Bing_109
+234	Chandler Bing	59	1	I	I am the brother-in-law of Ross Geller.	Chandler Bing	59	(0, 0)	---	relations	Chandler_Bing_109
+235	Chandler Bing	59	1	person	This person is the brother-in-law of Rachel Green.	average	---	(1, 1)	---	relations	Chandler_Bing_110
+236	Chandler Bing	59	1	I	I am the brother-in-law of Rachel Green.	Chandler Bing	59	(0, 0)	---	relations	Chandler_Bing_110
+237	Chandler Bing	59	1	person	This person is the son-in-law of Jack Geller.	average	---	(1, 1)	---	relations	Chandler_Bing_111
+238	Chandler Bing	59	1	I	I am the son-in-law of Jack Geller.	Chandler Bing	59	(0, 0)	---	relations	Chandler_Bing_111
+239	Chandler Bing	59	1	person	This person is the son-in-law of Judy Geller.	average	---	(1, 1)	---	relations	Chandler_Bing_112
+240	Chandler Bing	59	1	I	I am the son-in-law of Judy Geller.	Chandler Bing	59	(0, 0)	---	relations	Chandler_Bing_112
+241	Rachel Green	306	2	np	This daughter of Leonard Green is a waitress.	average	---	(1, 1)	---	attributes & relations	Rachel_Green_113
+242	Rachel Green	306	2	np	This waitress is a daughter of Leonard Green.	average	---	(1, 1)	---	attributes & relations	Rachel_Green_113
+243	Rachel Green	306	2	my	My daughter is a waitress.	Leonard Green	205	(1, 1)	---	attributes & relations	Rachel_Green_113
+244	Rachel Green	306	2	person	This person is a daughter of Leonard Green and a waitress.	average	---	(1, 1)	---	attributes & relations	Rachel_Green_113
+245	Rachel Green	306	2	person	This person is a waitress and a daughter of Leonard Green.	average	---	(1, 1)	---	attributes & relations	Rachel_Green_113
+246	Rachel Green	306	2	I	I am a daughter of Leonard Green and a waitress.	Rachel Green	306	(0, 0)	---	attributes & relations	Rachel_Green_113
+247	Rachel Green	306	2	I	I am a waitress and a daughter of Leonard Green.	Rachel Green	306	(0, 0)	---	attributes & relations	Rachel_Green_113
+248	Rachel Green	306	2	np	This daughter of Sandra Green is a waitress.	average	---	(1, 1)	---	attributes & relations	Rachel_Green_114
+249	Rachel Green	306	2	np	This waitress is a daughter of Sandra Green.	average	---	(1, 1)	---	attributes & relations	Rachel_Green_114
+250	Rachel Green	306	2	my	My daughter is a waitress.	Sandra Green	340	(1, 1)	---	attributes & relations	Rachel_Green_114
+251	Rachel Green	306	2	person	This person is a daughter of Sandra Green and a waitress.	average	---	(1, 1)	---	attributes & relations	Rachel_Green_114
+252	Rachel Green	306	2	person	This person is a waitress and a daughter of Sandra Green.	average	---	(1, 1)	---	attributes & relations	Rachel_Green_114
+253	Rachel Green	306	2	I	I am a daughter of Sandra Green and a waitress.	Rachel Green	306	(0, 0)	---	attributes & relations	Rachel_Green_114
+254	Rachel Green	306	2	I	I am a waitress and a daughter of Sandra Green.	Rachel Green	306	(0, 0)	---	attributes & relations	Rachel_Green_114
+255	Rachel Green	306	2	np	This stepmother of Ben Geller is a waitress.	average	---	(1, 1)	---	attributes & relations	Rachel_Green_115
+256	Rachel Green	306	2	np	This waitress is a stepmother of Ben Geller.	average	---	(1, 1)	---	attributes & relations	Rachel_Green_115
+257	Rachel Green	306	2	my	My stepmother is a waitress.	Ben Geller	30	(1, 1)	---	attributes & relations	Rachel_Green_115
+258	Rachel Green	306	2	person	This person is a stepmother of Ben Geller and a waitress.	average	---	(1, 1)	---	attributes & relations	Rachel_Green_115
+259	Rachel Green	306	2	person	This person is a waitress and a stepmother of Ben Geller.	average	---	(1, 1)	---	attributes & relations	Rachel_Green_115
+260	Rachel Green	306	2	I	I am a stepmother of Ben Geller and a waitress.	Rachel Green	306	(0, 0)	---	attributes & relations	Rachel_Green_115
+261	Rachel Green	306	2	I	I am a waitress and a stepmother of Ben Geller.	Rachel Green	306	(0, 0)	---	attributes & relations	Rachel_Green_115
+262	Rachel Green	306	1	person	This person is the daughter-in-law of Judy Geller.	average	---	(1, 1)	---	relations	Rachel_Green_116
+263	Rachel Green	306	1	I	I am the daughter-in-law of Judy Geller.	Rachel Green	306	(0, 0)	---	relations	Rachel_Green_116
+264	Rachel Green	306	1	person	This person is the daughter-in-law of Jack Geller.	average	---	(1, 1)	---	relations	Rachel_Green_117
+265	Rachel Green	306	1	I	I am the daughter-in-law of Jack Geller.	Rachel Green	306	(0, 0)	---	relations	Rachel_Green_117
+266	Rachel Green	306	1	person	This person is the ex-girlfriend of Joey Tribbiani Jr..	average	---	(1, 1)	---	relations	Rachel_Green_118
+267	Rachel Green	306	1	I	I am the ex-girlfriend of Joey Tribbiani Jr..	Rachel Green	306	(0, 0)	---	relations	Rachel_Green_118
+268	Rachel Green	306	1	person	This person is the ex-girlfriend of Paolo.	average	---	(1, 1)	---	relations	Rachel_Green_119
+269	Rachel Green	306	1	I	I am the ex-girlfriend of Paolo.	Rachel Green	306	(0, 0)	---	relations	Rachel_Green_119
+270	Rachel Green	306	1	person	This person is the ex-girlfriend of Russ.	average	---	(1, 1)	---	relations	Rachel_Green_120
+271	Rachel Green	306	1	I	I am the ex-girlfriend of Russ.	Rachel Green	306	(0, 0)	---	relations	Rachel_Green_120
+272	Rachel Green	306	1	person	This person is the wife of Ross Geller.	average	---	(1, 1)	---	relations	Rachel_Green_121
+273	Rachel Green	306	1	I	I am the wife of Ross Geller.	Rachel Green	306	(0, 0)	---	relations	Rachel_Green_121
+274	Rachel Green	306	2	np	This daughter of Leonard Green is a stepmother of Ben Geller.	average	---	(1, 1)	---	relations	Rachel_Green_122
+275	Rachel Green	306	2	np	This stepmother of Ben Geller is a daughter of Leonard Green.	average	---	(1, 1)	---	relations	Rachel_Green_122
+276	Rachel Green	306	2	my	My daughter is a stepmother of Ben Geller.	Leonard Green	205	(1, 1)	---	relations	Rachel_Green_122
+277	Rachel Green	306	2	my	My stepmother is a daughter of Leonard Green.	Ben Geller	30	(1, 1)	---	relations	Rachel_Green_122
+278	Rachel Green	306	2	person	This person is a daughter of Leonard Green and a stepmother of Ben Geller.	average	---	(1, 1)	---	relations	Rachel_Green_122
+279	Rachel Green	306	2	person	This person is a stepmother of Ben Geller and a daughter of Leonard Green.	average	---	(1, 1)	---	relations	Rachel_Green_122
+280	Rachel Green	306	2	I	I am a daughter of Leonard Green and a stepmother of Ben Geller.	Rachel Green	306	(0, 0)	---	relations	Rachel_Green_122
+281	Rachel Green	306	2	I	I am a stepmother of Ben Geller and a daughter of Leonard Green.	Rachel Green	306	(0, 0)	---	relations	Rachel_Green_122
+282	Rachel Green	306	2	np	This daughter of Sandra Green is a stepmother of Ben Geller.	average	---	(1, 1)	---	relations	Rachel_Green_123
+283	Rachel Green	306	2	np	This stepmother of Ben Geller is a daughter of Sandra Green.	average	---	(1, 1)	---	relations	Rachel_Green_123
+284	Rachel Green	306	2	my	My daughter is a stepmother of Ben Geller.	Sandra Green	340	(1, 1)	---	relations	Rachel_Green_123
+285	Rachel Green	306	2	my	My stepmother is a daughter of Sandra Green.	Ben Geller	30	(1, 1)	---	relations	Rachel_Green_123
+286	Rachel Green	306	2	person	This person is a daughter of Sandra Green and a stepmother of Ben Geller.	average	---	(1, 1)	---	relations	Rachel_Green_123
+287	Rachel Green	306	2	person	This person is a stepmother of Ben Geller and a daughter of Sandra Green.	average	---	(1, 1)	---	relations	Rachel_Green_123
+288	Rachel Green	306	2	I	I am a daughter of Sandra Green and a stepmother of Ben Geller.	Rachel Green	306	(0, 0)	---	relations	Rachel_Green_123
+289	Rachel Green	306	2	I	I am a stepmother of Ben Geller and a daughter of Sandra Green.	Rachel Green	306	(0, 0)	---	relations	Rachel_Green_123
+290	Rachel Green	306	1	person	This person is the ex-fiancé of Barry Farber.	average	---	(1, 1)	---	relations	Rachel_Green_124
+291	Rachel Green	306	1	I	I am the ex-fiancé of Barry Farber.	Rachel Green	306	(0, 0)	---	relations	Rachel_Green_124
+292	Rachel Green	306	1	person	This person is the sister-in-law of Monica Geller-Bing.	average	---	(1, 1)	---	relations	Rachel_Green_125
+293	Rachel Green	306	1	I	I am the sister-in-law of Monica Geller-Bing.	Rachel Green	306	(0, 0)	---	relations	Rachel_Green_125
+294	Rachel Green	306	1	person	This person is the sister-in-law of Chandler Bing.	average	---	(1, 1)	---	relations	Rachel_Green_126
+295	Rachel Green	306	1	I	I am the sister-in-law of Chandler Bing.	Rachel Green	306	(0, 0)	---	relations	Rachel_Green_126
+296	Rachel Green	306	1	person	This person is the sister of Jill Green.	average	---	(1, 1)	---	relations	Rachel_Green_127
+297	Rachel Green	306	1	I	I am the sister of Jill Green.	Rachel Green	306	(0, 0)	---	relations	Rachel_Green_127
+298	Monica Geller-Bing	248	2	np	This chef is a waitress.	average	---	(1, 1)	---	attributes	Monica_Geller-Bing_128
+299	Monica Geller-Bing	248	2	np	This waitress is a chef.	average	---	(1, 1)	---	attributes	Monica_Geller-Bing_128
+300	Monica Geller-Bing	248	2	person	This person is a chef and a waitress.	average	---	(1, 1)	---	attributes	Monica_Geller-Bing_128
+301	Monica Geller-Bing	248	2	person	This person is a waitress and a chef.	average	---	(1, 1)	---	attributes	Monica_Geller-Bing_128
+302	Monica Geller-Bing	248	2	I	I am a chef and a waitress.	Monica Geller-Bing	248	(0, 0)	---	attributes	Monica_Geller-Bing_128
+303	Monica Geller-Bing	248	2	I	I am a waitress and a chef.	Monica Geller-Bing	248	(0, 0)	---	attributes	Monica_Geller-Bing_128
+304	Monica Geller-Bing	248	1	person	This person is the ex-girlfriend of Fun Bobby.	average	---	(1, 1)	---	relations	Monica_Geller-Bing_129
+305	Monica Geller-Bing	248	1	I	I am the ex-girlfriend of Fun Bobby.	Monica Geller-Bing	248	(0, 0)	---	relations	Monica_Geller-Bing_129
+306	Monica Geller-Bing	248	1	person	This person is the ex-sister-in-law of Carol Willick.	average	---	(1, 1)	---	relations	Monica_Geller-Bing_130
+307	Monica Geller-Bing	248	1	I	I am the ex-sister-in-law of Carol Willick.	Monica Geller-Bing	248	(0, 0)	---	relations	Monica_Geller-Bing_130
+308	Monica Geller-Bing	248	1	person	This person is the wife of Chandler Bing.	average	---	(1, 1)	---	relations	Monica_Geller-Bing_131
+309	Monica Geller-Bing	248	1	I	I am the wife of Chandler Bing.	Monica Geller-Bing	248	(0, 0)	---	relations	Monica_Geller-Bing_131
+310	Melanie	237	1	person	This person is a shop assistant.	average	---	(1, 1)	---	attributes	Melanie_132
+311	Melanie	237	1	I	I am a shop assistant.	Melanie	237	(0, 0)	---	attributes	Melanie_132
+312	Max	236	1	person	This person is a researcher.	average	---	(1, 1)	---	attributes	Max_133
+313	Max	236	1	I	I am a researcher.	Max	236	(0, 0)	---	attributes	Max_133
+314	Luisa	220	1	person	This person is a animal control employee.	average	---	(1, 1)	---	attributes	Luisa_134
+315	Luisa	220	1	I	I am a animal control employee.	Luisa	220	(0, 0)	---	attributes	Luisa_134
+316	Lizzy	214	1	person	This person is an unemployed.	average	---	(1, 1)	---	attributes	Lizzy_135
+317	Lizzy	214	1	I	I am an unemployed.	Lizzy	214	(0, 0)	---	attributes	Lizzy_135
+318	Leslie	207	1	person	This person is a songwriter.	average	---	(1, 1)	---	attributes	Leslie_136
+319	Leslie	207	1	I	I am a songwriter.	Leslie	207	(0, 0)	---	attributes	Leslie_136
+320	Leslie	207	1	person	This person is a singer.	average	---	(1, 1)	---	attributes	Leslie_137
+321	Leslie	207	1	I	I am a singer.	Leslie	207	(0, 0)	---	attributes	Leslie_137
+322	Joey Tribbiani Jr.	183	1	person	This person is a cologne sampler.	average	---	(1, 1)	---	attributes	Joey_Tribbiani_Jr._138
+323	Joey Tribbiani Jr.	183	1	I	I am a cologne sampler.	Joey Tribbiani Jr.	183	(0, 0)	---	attributes	Joey_Tribbiani_Jr._138
+324	Joey Tribbiani Jr.	183	1	person	This person is a christmas elf.	average	---	(1, 1)	---	attributes	Joey_Tribbiani_Jr._139
+325	Joey Tribbiani Jr.	183	1	I	I am a christmas elf.	Joey Tribbiani Jr.	183	(0, 0)	---	attributes	Joey_Tribbiani_Jr._139
+326	Joey Tribbiani Jr.	183	1	person	This person is a minister.	average	---	(1, 1)	---	attributes	Joey_Tribbiani_Jr._140
+327	Joey Tribbiani Jr.	183	1	I	I am a minister.	Joey Tribbiani Jr.	183	(0, 0)	---	attributes	Joey_Tribbiani_Jr._140
+328	Joey Tribbiani Jr.	183	1	person	This person is the ex-boyfriend of Melanie.	average	---	(1, 1)	---	relations	Joey_Tribbiani_Jr._141
+329	Joey Tribbiani Jr.	183	1	I	I am the ex-boyfriend of Melanie.	Joey Tribbiani Jr.	183	(0, 0)	---	relations	Joey_Tribbiani_Jr._141
+330	David	79	1	person	This person is the ex-boyfriend of Phoebe Buffay.	average	---	(1, 1)	---	relations	David_142
+331	David	79	1	I	I am the ex-boyfriend of Phoebe Buffay.	David	79	(0, 0)	---	relations	David_142
+332	David	79	1	person	This person is a physicist.	average	---	(1, 1)	---	attributes	David_143
+333	David	79	1	I	I am a physicist.	David	79	(0, 0)	---	attributes	David_143
+334	Carol Willick	51	1	person	This person is the ex-daughter-in-law of Jack Geller.	average	---	(1, 1)	---	relations	Carol_Willick_144
+335	Carol Willick	51	1	I	I am the ex-daughter-in-law of Jack Geller.	Carol Willick	51	(0, 0)	---	relations	Carol_Willick_144
+336	Carol Willick	51	1	person	This person is the ex-daughter-in-law of Judy Geller.	average	---	(1, 1)	---	relations	Carol_Willick_145
+337	Carol Willick	51	1	I	I am the ex-daughter-in-law of Judy Geller.	Carol Willick	51	(0, 0)	---	relations	Carol_Willick_145
+338	Carol Willick	51	1	person	This person is the ex-wife of Ross Geller.	average	---	(1, 1)	---	relations	Carol_Willick_146
+339	Carol Willick	51	1	I	I am the ex-wife of Ross Geller.	Carol Willick	51	(0, 0)	---	relations	Carol_Willick_146
+340	Carol Willick	51	1	person	This person is the wife of Susan Bunch.	average	---	(1, 1)	---	relations	Carol_Willick_147
+341	Carol Willick	51	1	I	I am the wife of Susan Bunch.	Carol Willick	51	(0, 0)	---	relations	Carol_Willick_147
+342	Carol Willick	51	1	person	This person is the ex-sister-in-law of Monica Geller-Bing.	average	---	(1, 1)	---	relations	Carol_Willick_148
+343	Carol Willick	51	1	I	I am the ex-sister-in-law of Monica Geller-Bing.	Carol Willick	51	(0, 0)	---	relations	Carol_Willick_148
+344	Carol Willick	51	1	person	This person is a teacher.	average	---	(1, 1)	---	attributes	Carol_Willick_149
+345	Carol Willick	51	1	I	I am a teacher.	Carol Willick	51	(0, 0)	---	attributes	Carol_Willick_149
+346	Carol Willick	51	1	person	This person is the mother of Ben Geller.	average	---	(1, 1)	---	relations	Carol_Willick_150
+347	Carol Willick	51	1	I	I am the mother of Ben Geller.	Carol Willick	51	(0, 0)	---	relations	Carol_Willick_150
+348	Gunther	145	1	person	This person is a barmanager.	average	---	(1, 1)	---	attributes	Gunther_151
+349	Gunther	145	1	I	I am a barmanager.	Gunther	145	(0, 0)	---	attributes	Gunther_151
+350	Gunther	145	1	person	This person is a barista.	average	---	(1, 1)	---	attributes	Gunther_152
+351	Gunther	145	1	I	I am a barista.	Gunther	145	(0, 0)	---	attributes	Gunther_152
+352	Paul the Wine Guy	284	1	person	This person is the one-night stand of Franny.	average	---	(1, 1)	---	relations	Paul_the_Wine_Guy_153
+353	Paul the Wine Guy	284	1	I	I am the one-night stand of Franny.	Paul the Wine Guy	284	(0, 0)	---	relations	Paul_the_Wine_Guy_153
+354	Franny	134	1	person	This person is the one-night stand of Paul the Wine Guy.	average	---	(1, 1)	---	relations	Franny_154
+355	Franny	134	1	I	I am the one-night stand of Paul the Wine Guy.	Franny	134	(0, 0)	---	relations	Franny_154
+356	Frank Buffay Sr.	132	1	person	This person is a pharmacist.	average	---	(1, 1)	---	attributes	Frank_Buffay_Sr._155
+357	Frank Buffay Sr.	132	1	I	I am a pharmacist.	Frank Buffay Sr.	132	(0, 0)	---	attributes	Frank_Buffay_Sr._155
+358	Frank Buffay Sr.	132	1	person	This person is the ex-son-in-law of Frances.	average	---	(1, 1)	---	relations	Frank_Buffay_Sr._156
+359	Frank Buffay Sr.	132	1	I	I am the ex-son-in-law of Frances.	Frank Buffay Sr.	132	(0, 0)	---	relations	Frank_Buffay_Sr._156
+360	Frank Buffay Sr.	132	1	person	This person is the father of Phoebe Buffay.	average	---	(1, 1)	---	relations	Frank_Buffay_Sr._157
+361	Frank Buffay Sr.	132	1	I	I am the father of Phoebe Buffay.	Frank Buffay Sr.	132	(0, 0)	---	relations	Frank_Buffay_Sr._157
+362	Frank Buffay Sr.	132	1	person	This person is the husband of Mrs. Buffay (Frank Sr.'s second wife).	average	---	(1, 1)	---	relations	Frank_Buffay_Sr._158
+363	Frank Buffay Sr.	132	1	I	I am the husband of Mrs. Buffay (Frank Sr.'s second wife).	Frank Buffay Sr.	132	(0, 0)	---	relations	Frank_Buffay_Sr._158
+364	Estelle Leonard	121	1	person	This person is a acting agent.	average	---	(1, 1)	---	attributes	Estelle_Leonard_159
+365	Estelle Leonard	121	1	I	I am a acting agent.	Estelle Leonard	121	(0, 0)	---	attributes	Estelle_Leonard_159
+366	Leonard Green	205	1	person	This person is the father-in-law of Ross Geller.	average	---	(1, 1)	---	relations	Leonard_Green_160
+367	Leonard Green	205	1	I	I am the father-in-law of Ross Geller.	Leonard Green	205	(0, 0)	---	relations	Leonard_Green_160
+368	Leonard Green	205	1	person	This person is the step-grandfather of Ben Geller.	average	---	(1, 1)	---	relations	Leonard_Green_161
+369	Leonard Green	205	1	I	I am the step-grandfather of Ben Geller.	Leonard Green	205	(0, 0)	---	relations	Leonard_Green_161
+370	Leonard Green	205	1	person	This person is the father of Rachel Green.	average	---	(1, 1)	---	relations	Leonard_Green_162
+371	Leonard Green	205	1	I	I am the father of Rachel Green.	Leonard Green	205	(0, 0)	---	relations	Leonard_Green_162
+372	Leonard Green	205	1	person	This person is the ex-husband of Sandra Green.	average	---	(1, 1)	---	relations	Leonard_Green_163
+373	Leonard Green	205	1	I	I am the ex-husband of Sandra Green.	Leonard Green	205	(0, 0)	---	relations	Leonard_Green_163
+374	Dr Oberman	99	1	person	This person is a gynecologist.	average	---	(1, 1)	---	attributes	Dr_Oberman_164
+375	Dr Oberman	99	1	I	I am a gynecologist.	Dr Oberman	99	(0, 0)	---	attributes	Dr_Oberman_164
+376	Dr Oberman	99	1	person	This person is an obstetrician.	average	---	(1, 1)	---	attributes	Dr_Oberman_165
+377	Dr Oberman	99	1	I	I am an obstetrician.	Dr Oberman	99	(0, 0)	---	attributes	Dr_Oberman_165
+378	Dean Lipson	212	1	person	This person is a zoo administrator.	average	---	(1, 1)	---	attributes	Dean_Lipson_166
+379	Dean Lipson	212	1	I	I am a zoo administrator.	Dean Lipson	212	(0, 0)	---	attributes	Dean_Lipson_166
+380	Dan	73	2	np	This man is a nurse.	average	---	(1, 1)	---	attributes	Dan_167
+381	Dan	73	2	np	This nurse is a man.	average	---	(1, 1)	---	attributes	Dan_167
+382	Dan	73	2	he_she	He is a nurse.	average	---	(0, 0)	---	attributes	Dan_167
+383	Dan	73	2	person	This person is a man and a nurse.	average	---	(1, 1)	---	attributes	Dan_167
+384	Dan	73	2	person	This person is a nurse and a man.	average	---	(1, 1)	---	attributes	Dan_167
+385	Dan	73	2	I	I am a man and a nurse.	Dan	73	(0, 0)	---	attributes	Dan_167
+386	Dan	73	2	I	I am a nurse and a man.	Dan	73	(0, 0)	---	attributes	Dan_167
+387	Nurse Sizemore	282	2	np	This woman is a nurse.	average	---	(1, 1)	---	attributes	Nurse_Sizemore_168
+388	Nurse Sizemore	282	2	np	This nurse is a woman.	average	---	(1, 1)	---	attributes	Nurse_Sizemore_168
+389	Nurse Sizemore	282	2	he_she	She is a nurse.	average	---	(0, 0)	---	attributes	Nurse_Sizemore_168
+390	Nurse Sizemore	282	2	person	This person is a woman and a nurse.	average	---	(1, 1)	---	attributes	Nurse_Sizemore_168
+391	Nurse Sizemore	282	2	person	This person is a nurse and a woman.	average	---	(1, 1)	---	attributes	Nurse_Sizemore_168
+392	Nurse Sizemore	282	2	I	I am a woman and a nurse.	Nurse Sizemore	282	(0, 0)	---	attributes	Nurse_Sizemore_168
+393	Nurse Sizemore	282	2	I	I am a nurse and a woman.	Nurse Sizemore	282	(0, 0)	---	attributes	Nurse_Sizemore_168
+394	Sandra Green	340	1	person	This person is the ex-wife of Leonard Green.	average	---	(1, 1)	---	relations	Sandra_Green_169
+395	Sandra Green	340	1	I	I am the ex-wife of Leonard Green.	Sandra Green	340	(0, 0)	---	relations	Sandra_Green_169
+396	Sandra Green	340	1	person	This person is the mother-in-law of Ross Geller.	average	---	(1, 1)	---	relations	Sandra_Green_170
+397	Sandra Green	340	1	I	I am the mother-in-law of Ross Geller.	Sandra Green	340	(0, 0)	---	relations	Sandra_Green_170
+398	Sandra Green	340	1	person	This person is the step-grandmother of Ben Geller.	average	---	(1, 1)	---	relations	Sandra_Green_171
+399	Sandra Green	340	1	I	I am the step-grandmother of Ben Geller.	Sandra Green	340	(0, 0)	---	relations	Sandra_Green_171
+400	Sandra Green	340	1	person	This person is the mother of Jill Green.	average	---	(1, 1)	---	relations	Sandra_Green_172
+401	Sandra Green	340	1	I	I am the mother of Jill Green.	Sandra Green	340	(0, 0)	---	relations	Sandra_Green_172
+402	Sandra Green	340	1	person	This person is the mother of Rachel Green.	average	---	(1, 1)	---	relations	Sandra_Green_173
+403	Sandra Green	340	1	I	I am the mother of Rachel Green.	Sandra Green	340	(0, 0)	---	relations	Sandra_Green_173
+404	Barbara Burke	28	1	person	This person is the ex-wife of Richard Burke.	average	---	(1, 1)	---	relations	Barbara_Burke_174
+405	Barbara Burke	28	1	I	I am the ex-wife of Richard Burke.	Barbara Burke	28	(0, 0)	---	relations	Barbara_Burke_174
+406	Charles Bing	67	1	person	This person is a performer.	average	---	(1, 1)	---	attributes	Charles_Bing_175
+407	Charles Bing	67	1	I	I am a performer.	Charles Bing	67	(0, 0)	---	attributes	Charles_Bing_175
+408	Charles Bing	67	1	person	This person is the father-in-law of Monica Geller-Bing.	average	---	(1, 1)	---	relations	Charles_Bing_176
+409	Charles Bing	67	1	I	I am the father-in-law of Monica Geller-Bing.	Charles Bing	67	(0, 0)	---	relations	Charles_Bing_176
+410	Charles Bing	67	1	person	This person is the father of Chandler Bing.	average	---	(1, 1)	---	relations	Charles_Bing_177
+411	Charles Bing	67	1	I	I am the father of Chandler Bing.	Charles Bing	67	(0, 0)	---	relations	Charles_Bing_177
+412	Charles Bing	67	1	person	This person is the ex-husband of Nora Tyler Bing.	average	---	(1, 1)	---	relations	Charles_Bing_178
+413	Charles Bing	67	1	I	I am the ex-husband of Nora Tyler Bing.	Charles Bing	67	(0, 0)	---	relations	Charles_Bing_178
+414	Judy Geller	195	1	person	This person is the mother-in-law of Rachel Green.	average	---	(1, 1)	---	relations	Judy_Geller_179
+415	Judy Geller	195	1	I	I am the mother-in-law of Rachel Green.	Judy Geller	195	(0, 0)	---	relations	Judy_Geller_179
+416	Judy Geller	195	1	person	This person is the mother-in-law of Chandler Bing.	average	---	(1, 1)	---	relations	Judy_Geller_180
+417	Judy Geller	195	1	I	I am the mother-in-law of Chandler Bing.	Judy Geller	195	(0, 0)	---	relations	Judy_Geller_180
+418	Judy Geller	195	1	person	This person is the wife of Jack Geller.	average	---	(1, 1)	---	relations	Judy_Geller_181
+419	Judy Geller	195	1	I	I am the wife of Jack Geller.	Judy Geller	195	(0, 0)	---	relations	Judy_Geller_181
+420	Judy Geller	195	1	person	This person is the ex-mother-in-law of Carol Willick.	average	---	(1, 1)	---	relations	Judy_Geller_182
+421	Judy Geller	195	1	I	I am the ex-mother-in-law of Carol Willick.	Judy Geller	195	(0, 0)	---	relations	Judy_Geller_182
+422	Judy Geller	195	1	person	This person is the paternal grandmother of Ben Geller.	average	---	(1, 1)	---	relations	Judy_Geller_183
+423	Judy Geller	195	1	I	I am the paternal grandmother of Ben Geller.	Judy Geller	195	(0, 0)	---	relations	Judy_Geller_183
+424	Judy Geller	195	1	person	This person is the sister-in-law of Aunt Sylvia.	average	---	(1, 1)	---	relations	Judy_Geller_184
+425	Judy Geller	195	1	I	I am the sister-in-law of Aunt Sylvia.	Judy Geller	195	(0, 0)	---	relations	Judy_Geller_184
+426	Judy Geller	195	1	person	This person is the sister of Aunt Lillian.	average	---	(1, 1)	---	relations	Judy_Geller_185
+427	Judy Geller	195	1	I	I am the sister of Aunt Lillian.	Judy Geller	195	(0, 0)	---	relations	Judy_Geller_185
+428	Judy Geller	195	1	person	This person is the mother of Ross Geller.	average	---	(1, 1)	---	relations	Judy_Geller_186
+429	Judy Geller	195	1	I	I am the mother of Ross Geller.	Judy Geller	195	(0, 0)	---	relations	Judy_Geller_186
+430	Judy Geller	195	1	person	This person is the mother of Monica Geller-Bing.	average	---	(1, 1)	---	relations	Judy_Geller_187
+431	Judy Geller	195	1	I	I am the mother of Monica Geller-Bing.	Judy Geller	195	(0, 0)	---	relations	Judy_Geller_187
+432	Jack Geller	163	1	person	This person is the father-in-law of Rachel Green.	average	---	(1, 1)	---	relations	Jack_Geller_188
+433	Jack Geller	163	1	I	I am the father-in-law of Rachel Green.	Jack Geller	163	(0, 0)	---	relations	Jack_Geller_188
+434	Jack Geller	163	1	person	This person is the father-in-law of Chandler Bing.	average	---	(1, 1)	---	relations	Jack_Geller_189
+435	Jack Geller	163	1	I	I am the father-in-law of Chandler Bing.	Jack Geller	163	(0, 0)	---	relations	Jack_Geller_189
+436	Jack Geller	163	1	person	This person is the ex-father-in-law of Carol Willick.	average	---	(1, 1)	---	relations	Jack_Geller_190
+437	Jack Geller	163	1	I	I am the ex-father-in-law of Carol Willick.	Jack Geller	163	(0, 0)	---	relations	Jack_Geller_190
+438	Jack Geller	163	1	person	This person is the paternal grandfather of Ben Geller.	average	---	(1, 1)	---	relations	Jack_Geller_191
+439	Jack Geller	163	1	I	I am the paternal grandfather of Ben Geller.	Jack Geller	163	(0, 0)	---	relations	Jack_Geller_191
+440	Jack Geller	163	1	person	This person is the father of Ross Geller.	average	---	(1, 1)	---	relations	Jack_Geller_192
+441	Jack Geller	163	1	I	I am the father of Ross Geller.	Jack Geller	163	(0, 0)	---	relations	Jack_Geller_192
+442	Jack Geller	163	1	person	This person is the father of Monica Geller-Bing.	average	---	(1, 1)	---	relations	Jack_Geller_193
+443	Jack Geller	163	1	I	I am the father of Monica Geller-Bing.	Jack Geller	163	(0, 0)	---	relations	Jack_Geller_193
+444	Jack Geller	163	1	person	This person is the husband of Judy Geller.	average	---	(1, 1)	---	relations	Jack_Geller_194
+445	Jack Geller	163	1	I	I am the husband of Judy Geller.	Jack Geller	163	(0, 0)	---	relations	Jack_Geller_194
+446	Jack Geller	163	1	person	This person is the brother of Aunt Sylvia.	average	---	(1, 1)	---	relations	Jack_Geller_195
+447	Jack Geller	163	1	I	I am the brother of Aunt Sylvia.	Jack Geller	163	(0, 0)	---	relations	Jack_Geller_195
+448	Jack Geller	163	1	person	This person is the brother-in-law of Aunt Lillian.	average	---	(1, 1)	---	relations	Jack_Geller_196
+449	Jack Geller	163	1	I	I am the brother-in-law of Aunt Lillian.	Jack Geller	163	(0, 0)	---	relations	Jack_Geller_196
+450	Jack Geller	163	1	person	This person is the son-in-law of Althea.	average	---	(1, 1)	---	relations	Jack_Geller_197
+451	Jack Geller	163	1	I	I am the son-in-law of Althea.	Jack Geller	163	(0, 0)	---	relations	Jack_Geller_197
+452	Tilly	367	1	person	This person is the ex-girlfriend of Eddie Menuek.	average	---	(1, 1)	---	relations	Tilly_198
+453	Tilly	367	1	I	I am the ex-girlfriend of Eddie Menuek.	Tilly	367	(0, 0)	---	relations	Tilly_198
+454	Janice Litman Goralnik	168	1	person	This person is the ex-girlfriend of Chandler Bing.	average	---	(1, 1)	---	relations	Janice_Litman_Goralnik_199
+455	Janice Litman Goralnik	168	1	I	I am the ex-girlfriend of Chandler Bing.	Janice Litman Goralnik	168	(0, 0)	---	relations	Janice_Litman_Goralnik_199
+456	Cathy	57	1	person	This person is a directors assistant.	average	---	(1, 1)	---	attributes	Cathy_200
+457	Cathy	57	1	I	I am a directors assistant.	Cathy	57	(0, 0)	---	attributes	Cathy_200
+458	Caroline Duffy	54	1	person	This person is a cartoonist.	average	---	(1, 1)	---	attributes	Caroline_Duffy_201
+459	Caroline Duffy	54	1	I	I am a cartoonist.	Caroline Duffy	54	(0, 0)	---	attributes	Caroline_Duffy_201
+460	Susan Bunch	358	1	person	This person is the wife of Carol Willick.	average	---	(1, 1)	---	relations	Susan_Bunch_202
+461	Susan Bunch	358	1	I	I am the wife of Carol Willick.	Susan Bunch	358	(0, 0)	---	relations	Susan_Bunch_202
+462	Susan Bunch	358	1	person	This person is the wife of Carol Willick.	average	---	(1, 1)	---	relations	Susan_Bunch_203
+463	Susan Bunch	358	1	I	I am the wife of Carol Willick.	Susan Bunch	358	(0, 0)	---	relations	Susan_Bunch_203
+464	Gloria Tribbiani	143	1	person	This person is the wife of Joey Tribbiani Sr..	average	---	(1, 1)	---	relations	Gloria_Tribbiani_204
+465	Gloria Tribbiani	143	1	I	I am the wife of Joey Tribbiani Sr..	Gloria Tribbiani	143	(0, 0)	---	relations	Gloria_Tribbiani_204
+466	Gloria Tribbiani	143	1	person	This person is the wife of Joey Tribbiani Sr..	average	---	(1, 1)	---	relations	Gloria_Tribbiani_205
+467	Gloria Tribbiani	143	1	I	I am the wife of Joey Tribbiani Sr..	Gloria Tribbiani	143	(0, 0)	---	relations	Gloria_Tribbiani_205
+468	Gloria Tribbiani	143	1	person	This person is the mother of Joey Tribbiani Jr..	average	---	(1, 1)	---	relations	Gloria_Tribbiani_206
+469	Gloria Tribbiani	143	1	I	I am the mother of Joey Tribbiani Jr..	Gloria Tribbiani	143	(0, 0)	---	relations	Gloria_Tribbiani_206
+470	Bob (Chandler's coworker)	42	1	person	This person is a data processor.	average	---	(1, 1)	---	attributes	Bob_(Chandler's_coworker)_207
+471	Bob (Chandler's coworker)	42	1	I	I am a data processor.	Bob (Chandler's coworker)	42	(0, 0)	---	attributes	Bob_(Chandler's_coworker)_207
+472	Jill Green	176	1	person	This person is the step-aunt of Ben Geller.	average	---	(1, 1)	---	relations	Jill_Green_208
+473	Jill Green	176	1	I	I am the step-aunt of Ben Geller.	Jill Green	176	(0, 0)	---	relations	Jill_Green_208
+474	Jill Green	176	1	person	This person is the sister-in-law of Ross Geller.	average	---	(1, 1)	---	relations	Jill_Green_209
+475	Jill Green	176	1	I	I am the sister-in-law of Ross Geller.	Jill Green	176	(0, 0)	---	relations	Jill_Green_209
+476	Jill Green	176	1	person	This person is the sister of Rachel Green.	average	---	(1, 1)	---	relations	Jill_Green_210
+477	Jill Green	176	1	I	I am the sister of Rachel Green.	Jill Green	176	(0, 0)	---	relations	Jill_Green_210
+478	Barry Farber	29	1	person	This person is the ex-fiancé of Rachel Green.	average	---	(1, 1)	---	relations	Barry_Farber_211
+479	Barry Farber	29	1	I	I am the ex-fiancé of Rachel Green.	Barry Farber	29	(0, 0)	---	relations	Barry_Farber_211
+480	Barry Farber	29	1	person	This person is an orthodontist.	average	---	(1, 1)	---	attributes	Barry_Farber_212
+481	Barry Farber	29	1	I	I am an orthodontist.	Barry Farber	29	(0, 0)	---	attributes	Barry_Farber_212
+482	Barry Farber	29	1	person	This person is the ex-husband of Mindy Hunter.	average	---	(1, 1)	---	relations	Barry_Farber_213
+483	Barry Farber	29	1	I	I am the ex-husband of Mindy Hunter.	Barry Farber	29	(0, 0)	---	relations	Barry_Farber_213
+484	Ethan	123	1	person	This person is the boyfriend of Aurora.	average	---	(1, 1)	---	relations	Ethan_214
+485	Ethan	123	1	I	I am the boyfriend of Aurora.	Ethan	123	(0, 0)	---	relations	Ethan_214
+486	Rick	320	1	person	This person is the husband of Aurora.	average	---	(1, 1)	---	relations	Rick_215
+487	Rick	320	1	I	I am the husband of Aurora.	Rick	320	(0, 0)	---	relations	Rick_215
+488	Aurora	26	1	person	This person is a former israeli soldier.	average	---	(1, 1)	---	attributes	Aurora_216
+489	Aurora	26	1	I	I am a former israeli soldier.	Aurora	26	(0, 0)	---	attributes	Aurora_216
+490	Aunt Lillian	23	1	person	This person is the sister-in-law of Jack Geller.	average	---	(1, 1)	---	relations	Aunt_Lillian_217
+491	Aunt Lillian	23	1	I	I am the sister-in-law of Jack Geller.	Aunt Lillian	23	(0, 0)	---	relations	Aunt_Lillian_217
+492	Aunt Lillian	23	1	person	This person is the sister of Judy Geller.	average	---	(1, 1)	---	relations	Aunt_Lillian_218
+493	Aunt Lillian	23	1	I	I am the sister of Judy Geller.	Aunt Lillian	23	(0, 0)	---	relations	Aunt_Lillian_218
+494	Aunt Sylvia	25	1	person	This person is the sister of Jack Geller.	average	---	(1, 1)	---	relations	Aunt_Sylvia_219
+495	Aunt Sylvia	25	1	I	I am the sister of Jack Geller.	Aunt Sylvia	25	(0, 0)	---	relations	Aunt_Sylvia_219
