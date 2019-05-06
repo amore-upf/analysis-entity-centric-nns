@@ -1,5 +1,5 @@
 
-<p align="right">![AMORE-UPF][amore-logo] &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![UPF][upf-logo]</p>
+![(AMORE-UPF)](logos/logo-AMORE-blue-withtext.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![(UPF)](logos/upf-logo.png)
 
 # Analysis of Entity-centric Neural Networks
    
@@ -127,11 +127,5 @@ See the [Section above](#running-and-evaluating-the-amore-upf-model-on-the-semev
 
 ## Acknowledgements
 This project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement No 715154), and from the Spanish Ram\'on y Cajal programme (grant RYC-2015-18907). We are grateful to the NVIDIA Corporation for the donation of GPUs used for this research. We are also very grateful to the Pytorch developers. This paper reflects the authors' view only, and the EU is not responsible for any use that may be made of the information it contains.
-<p align="right">![(ERC logo)][erc-logo] &nbsp; ![(EU flag)][eu-flag]</p>
 
-
-[amore-logo]: https://raw.githubusercontent.com/lauraina/AMORE-semeval/memory-efficient/logos/logo-AMORE-blue-withtext.png?token=AS0KkgGobBv3k09Or_6Bo7AR8r_32Jt9ks5a4u9UwA%3D%3D "A distributional MOdel of Reference to Entities"
-[upf-logo]: https://raw.githubusercontent.com/lauraina/AMORE-semeval/memory-efficient/logos/upf-logo.png?token=AS0KkoTyG_CjCMxN8E0CNmXqHUgVoYMOks5a4u9swA%3D%3D "Universitat Pompeu Fabra"
-[erc-logo]: https://raw.githubusercontent.com/lauraina/AMORE-semeval/memory-efficient/logos/LOGO-ERC.jpg?token=AS0KksliLXUy3R5G-ri7SBdJJfLDogGcks5a4u5awA%3D%3D "ERC-LOGO"
-[eu-flag]: https://raw.githubusercontent.com/lauraina/AMORE-semeval/memory-efficient/logos/flag_yellow_low.jpeg?token=AS0KkpS5zuY5A_fhlrNGwa_9vUYqDHVfks5a4bRpwA%3D%3D "EU-FLAG"
-
+![(ERC logo)](logos/LOGO-ERC.jpg)      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;       ![(EU flag)](logos/flag_yellow_low.jpeg)
