@@ -4,7 +4,7 @@
 # Analysis of Entity-centric Neural Networks
    
 Accompanying code for our paper at NAACL-HLT 2019, [What do entity-centric models learn? Insights from entity linking in
-multi-party dialogue](URL).  
+multi-party dialogue](https://arxiv.org/abs/1905.06649).  
 
 ##### Citation
 
